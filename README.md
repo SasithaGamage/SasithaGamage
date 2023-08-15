@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SasithaGamage
-- 👀 I’m interested in Big Data Engineering
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Big Data Analytics.
+- 🌱 I’m currently working as a Data Scientist
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me out - sasithaeg99@gmail.com
 
